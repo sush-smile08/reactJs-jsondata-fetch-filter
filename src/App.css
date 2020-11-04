@@ -1,0 +1,19 @@
+.App .col-1, .App .col-2, .App .col-3, .App .col-4, 
+.App .col-5, .App .col-6, .App .col-7, .App .col-8
+.App .col-9, .App .col-10, .App .col-11, .App .col-12, 
+.App .col, .App .col-auto, .App .col-sm-1, .App .col-sm-2, 
+.App .col-sm-3, .App .col-sm-4, .App .col-sm-5, 
+.App .col-sm-6,.App .col-sm-7,.App .col-sm-8, .App .col-sm-9, 
+.App .col-sm-10, .App .col-sm-11, .App .col-sm-12, .App .col-sm, 
+.App .col-sm-auto, .App .col-md-1, .App .col-md-2, .App .col-md-3,
+.App .col-md-4, .App .col-md-5, .App .col-md-6, .App .col-md-7,
+.App .col-md-8, .App .col-md-9, .App .col-md-10, .App .col-md-11,
+.App .col-md-12, .App .col-md, .App .col-md-auto, .App .col-lg-1, 
+.App .col-lg-2,  .App .col-lg-3, .App .col-lg-4, .App .col-lg-5, 
+.App .col-lg-6, .App .col-lg-7, .App .col-lg-8, .App .col-lg-9, .App .col-lg-10, 
+.App .col-lg-11, .App .col-lg-12, .App .col-lg, .App .col-lg-auto, .App .col-xl-1, 
+.App .col-xl-2, .App .col-xl-3, .App .col-xl-4, .App .col-xl-5, .App .col-xl-6,
+.App .col-xl-7, .App .col-xl-8, .App .col-xl-9, .App .col-xl-10, .App .col-xl-11,
+.App .col-xl-12, .App .col-xl, .App .col-xl-auto{
+  padding: 0px 5px
+}

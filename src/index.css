@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #cccccc;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul, li{
+  list-style: none;
+  padding: 0px;
+}
+
+.App{
+  background: #f2f2f2;
+  padding: 10px;
+}
+
+.item-body{
+  padding-bottom: 30px;
+}
+
+.item-block{
+  background: #fff;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.img-body{
+  background: #ccc;
+  margin-bottom: 20px;
+}
+.item-block p{
+  font-weight: 700;
+  color: #000;
+}
+
+.item-block p.title{
+  color:#25427d;
+}
+
+.item-block p span{
+  font-weight: 400;
+  color: #263a72;
+}
+
+.filter-wrapper{
+  background: #fff;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.filter-title{
+  text-align: center;
+  color: #4d4d4d;
+  border-bottom: 1px solid #4d4d4d;
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.filter-wrapper ul{
+  width: 100%;
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.filter-wrapper li{
+  float: left;
+  width: 50%;
+  padding: 10px 0px;
+}
+
+.filter-wrapper a{
+  color: #000;
+  background: #c4e096; 
+  padding: 3px 15px;
+  border-radius: 5px;
+}
+
+.no-data{
+  text-align: center;
+}
+
+.pageTitle{
+  color: #000;
+}
+
+.pageTitle h1{
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.filter-wrapper h3{
+  font-size: 22px;
+  font-weight: 700;
+}
+
+a.pageTitle:hover{
+  text-decoration: none;
+  opacity: 0.8;
+  color: #4d4d4d;
+}
